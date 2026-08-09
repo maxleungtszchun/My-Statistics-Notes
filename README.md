@@ -1,6 +1,6 @@
 # My-Statistics-Notes
 
-These are my study notes of Statistics. They aren't just a paste.
+These are my study notes of Statistics.
 
 R code is included for some of the algorithms mentioned in the notes.
 
